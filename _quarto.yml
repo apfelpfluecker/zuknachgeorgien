@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "zuknachgeorgien"
+  title: "žuk nach Georgien"
   navbar:
     right:
       - about.qmd
