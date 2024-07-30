@@ -2,16 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Über",
     "section": "",
-    "text": "Das ist mein Blog."
+    "text": "Liebe*r Freund*in,"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Hello world!",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Moin,\ndas ist mein erster Blogpost hier. Was ich hier tue und warum, erfahrt ihr unter „Über“."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -25,6 +25,27 @@
     "href": "index.html",
     "title": "žuk nach Georgien",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n11.06.2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n08.06.2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Wie kann ich eigentlich dieses ž schreiben?\n\n\n\n\n\n\nHintergrund\n\n\n\n\n\n\n\n\n\n30.07.2024\n\n\nžuk\n\n\n\n\n\n\n\n\n\n\n\n\nHello world!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n08.06.2024\n\n\nžuk\n\n\n\n\n\n\nKeine Treffer"
+  },
+  {
+    "objectID": "posts/zuk/index.html",
+    "href": "posts/zuk/index.html",
+    "title": "Wie kann ich eigentlich dieses ž schreiben?",
+    "section": "",
+    "text": "Schon sehr oft wurde und immer wieder werde ich gefragt, wie man auf technischen Geräten dieses Z mit Hatschek (so ist der typographische Begriff für das umgedrehte Dach) schreibt. Nun, damit ich nicht immer neu Leuten Dinge erkläre und weil es doch technisch ganz interessant und lustig ist, halte ich das hier mal fest.\nAußerdem noch eine generelle Vorbemerkung: Es sei insbesondere für die Computer-Tastatur festgehalten, dass das einfache Tippen von Unicode-Zeichen außerhalb der Standard- und Shift-Ebene schon sehr praktisch ist. Angefangen bei Anführungszeichen, dem ø, richtigen Apostrophen oder einem Gedankenstrich. Das ist typographisch einfach ein Gamechanger."
+  },
+  {
+    "objectID": "posts/zuk/index.html#auf-der-handy-tastatur",
+    "href": "posts/zuk/index.html#auf-der-handy-tastatur",
+    "title": "Wie kann ich eigentlich dieses ž schreiben?",
+    "section": "Auf der Handy-Tastatur",
+    "text": "Auf der Handy-Tastatur\n\nEine weitere Sprache installieren\n…ist der einfachste Workaround in der Regel, sich eine Sprache zu installieren, bei dem das ž eine regelmäßige Verwendung findet. Nachteil: Man muss vorm ž jedes Mal die Sprache wechseln (und danach wieder zurück). In den meisten osteuropäischen Sprachen sollte es integriert sein, besonders empfehlen möchte ich natürlich Slowenisch. Vielleicht funktioniert auch, das Wort žuk zum Benutzerwörterbuch hinzuzufügen, sodass es dann automatisch korrigiert wird, wenn man zuk tippt. Vielleicht kann das mal jemand ausprobieren und mir schreiben.\n\n\nEine andere Tastatur suchen\nEine andere Lösung ist, sich eine Tastatur zu suchen, die ein deutsches Layout mit erweiterter Typographie bietet. Ich persönlich nutze AnySoftKeyboard, die ist auf der einen Seite Free und Open Source, offline und hat trotzdem eine Korrekturfunktion. Auf der anderen Seite hat sie viele deutsche Layouts (und auch andere Tastatureinstellungen) zur Auswahl, sodass für jede*n sicher was dabei ist. Allerdings finde ich es schon sehr viel Aufwand, sich eine neue Tastatur anzugewöhnen, nur um ein ž schreiben zu können."
+  },
+  {
+    "objectID": "posts/zuk/index.html#auf-der-pc-tastatur",
+    "href": "posts/zuk/index.html#auf-der-pc-tastatur",
+    "title": "Wie kann ich eigentlich dieses ž schreiben?",
+    "section": "Auf der PC-Tastatur",
+    "text": "Auf der PC-Tastatur\n…ist das ganze schwieriger oder leichter – je nach dem. Fangen wir an, es gibt einige Möglichkeiten.\n\nAuf Linux: Einfach AltGr + Shift + ä und dann z\nWenn man wie ich Linux-Nutzer ist, hat man es relativ einfach. Die deutsche Standard-Tastatur auf (mindestens Ubuntu-Derivaten) beinhaltet ein umfangreiches typographisches Angebot. So ist es für mich kein Problem, „, ø, “, ’, ←, –, Æ und viele weitere Unicode-Zeichen zu schreiben. Das ist ziemlich toll und sehr praktisch. Die Tastaturebene, auf der sich der Hatschek befindet, ist AltGr + Shift + ä. Dann bekommt man den Hatschek und wenn man das z dann folgen lässt, erhält man: ž. Toll, oder?\n\n\nAlt-Codes nutzen\nWenn man kein Linux-Nutzer ist, ist es auf jeden Fall komplizierter (finde ich), aber man kann es sich zumindest leichter machen ;).\nDie bekannteste Methode wäre, den Alt-Code auswendig zu lernen, mit dem man Unicode-Zeichen mithilfe des Ziffernblocks schreiben kann. Wie das gehen soll, steht hier, aber ich sage gleich dazu, dass es bei mir noch nie funktioniert hat (auch schon bei Windows nicht)…\nDer Alt-Code für das ž ist Alt 0158 oder Alt 382 (Quelle).\n\n\nAuf Windows: Tastaturbelegung modifizieren\nDie nächste Möglichkeit wäre, die verschiedenen Tastaturebenen (NULL, Shift, AltGr, AltGr + Shift), die in Windows quasi gar nicht genutzt werden, benutzerspezifisch zu definieren. Zum Beispiel könnte AltGr + Shift + z ž ergeben und AltGr + Shift + o ø (tørtle würde sich bestimmt freuen…). Ich hab das noch nie gemacht, aber das geht wohl, sagen die hier.\n\n\nAuf Windows: Linux-Tastaturlayout installieren\nEine weitere Möglichkeit ist, dass man versucht, das deutsche Layout auf Linux/Ubuntu in Windows einzustellen. Ich konnte das leider noch nicht an einem Windows testen, aber Chat-GPTs Antworten ergaben für mich grundsätzlich Sinn. Etwas in die Richtung könnten Dinge funktionieren.\n\nUm das Ubuntu-Tastaturlayout auf Windows zu verwenden, können Sie die Layout-Dateien von Ubuntu herunterladen und installieren. Es gibt jedoch auch einfachere Methoden, um ein ähnliches Layout zu erhalten. Hier sind die Schritte, um das Ubuntu-Tastaturlayout auf Windows zu verwenden:\nMethode 1: Verwenden von Windows-Einstellungen\n\nEinstellungen öffnen:\n\nKlicken Sie auf das Startmenü und wählen Sie „Einstellungen“ (das Zahnradsymbol).\n\nZeit und Sprache:\n\nWählen Sie „Zeit und Sprache“ aus den Einstellungen.\n\nSprache:\n\nKlicken Sie im linken Menü auf „Sprache“ und fügen Sie Deutsch hinzu, falls es noch nicht vorhanden ist.\n\nTastaturlayout ändern:\n\nKlicken Sie auf die hinzugefügte Sprache und dann auf „Optionen“. Hier können Sie das deutsche Layout auswählen. Es gibt verschiedene Varianten, und Sie können „Deutsch (Deutschland)“ oder „Deutsch (QWERTZ)“ auswählen, um ein Layout zu erhalten, das dem Ubuntu-Layout ähnelt.\n\n\nMethode 2: Verwenden von Drittanbieter-Tools\nWenn Sie das spezifische Ubuntu-Tastaturlayout benötigen, können Sie ein Tool wie Microsoft Keyboard Layout Creator (MSKLC) verwenden:\n\nMSKLC herunterladen:\n\nLaden Sie den Microsoft Keyboard Layout Creator von der offiziellen Microsoft-Website herunter und installieren Sie ihn.\n\nNeues Layout erstellen:\n\nÖffnen Sie MSKLC und erstellen Sie ein neues Layout. Sie können das Layout von Ubuntu manuell nachbauen, indem Sie die Tasten entsprechend anpassen.\n\nLayout speichern und installieren:\n\nSpeichern Sie das Layout und erstellen Sie die Setup-Datei, um es auf Ihrem Windows-System zu installieren.\n\n\nMethode 3: Vorhandene Layouts suchen\nEs gibt auch einige Websites, auf denen Benutzer Tastaturlayouts für Windows bereitstellen. Suchen Sie nach „Ubuntu Keyboard Layout for Windows“ und prüfen Sie, ob es bereits erstellte Layouts gibt, die Sie herunterladen und installieren können.\nFazit\nDie einfachste Methode ist, das deutsche Layout über die Windows-Einstellungen hinzuzufügen. Wenn Sie jedoch ein spezifisches Ubuntu-Layout benötigen, können Sie MSKLC verwenden, um es manuell zu erstellen.\n\n\n\nMit Neo: Ganz einfach\nFalls Menschen das Tastaturlayout Neo nutzen: In Neo2 gibt es den Hatschek auf der Ebene 2 oben links, selbiges gilt für NeoQwertz, Bone, Mine, Noted und die meisten Neo-Derivate (AdNW, KOY)."
   }
 ]

@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Hello world!"
+author: "žuk"
 date: "2024-06-08"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Moin,
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+das ist mein erster Blogpost hier. Was ich hier tue und warum, erfahrt ihr unter „[Über](../../about.html)“.
