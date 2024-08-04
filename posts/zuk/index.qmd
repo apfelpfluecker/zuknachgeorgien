@@ -1,5 +1,5 @@
 ---
-title: "Wie kann ich eigentlich dieses ž schreiben?"
+title: "Wie kann ich eigentlich dieses `ž` schreiben?"
 author: "žuk"
 date: "2024-07-30"
 categories: [Hintergrund]
@@ -15,7 +15,7 @@ Außerdem noch eine generelle Vorbemerkung: Es sei insbesondere für die Compute
 
 ### Eine weitere Sprache installieren
 
-...ist der einfachste Workaround in der Regel, sich eine Sprache zu installieren, bei dem das `ž` eine regelmäßige Verwendung findet. Nachteil: Man muss vorm `ž` jedes Mal die Sprache wechseln (und danach wieder zurück). In den meisten osteuropäischen Sprachen sollte es integriert sein, besonders empfehlen möchte ich natürlich Slowenisch. Vielleicht funktioniert auch, das Wort `žuk` zum Benutzerwörterbuch hinzuzufügen, sodass es dann automatisch korrigiert wird, wenn man `zuk` tippt. Vielleicht kann das mal jemand ausprobieren und mir schreiben.
+...ist der einfachste Workaround in der Regel, sich eine Sprache zu installieren, bei dem das `ž` eine regelmäßige Verwendung findet. Nachteil: Man muss vorm `ž` jedes Mal die Sprache wechseln (und danach wieder zurück). In den meisten osteuropäischen Sprachen sollte es integriert sein, besonders empfehlen möchte ich natürlich Slowenisch. Von einigen weiß ich, dass es mit den englischen Layouts ihrer Tastaturen auch funktioniert. (Ich gebe gerne zu, dass das sicher etwas praktischer ist, als Slowenisch.) Vielleicht funktioniert auch, das Wort `žuk` zum Benutzerwörterbuch hinzuzufügen, sodass es dann automatisch korrigiert wird, wenn man `zuk` tippt. Vielleicht kann das mal jemand ausprobieren und mir schreiben.
 
 ### Eine andere Tastatur suchen
 
