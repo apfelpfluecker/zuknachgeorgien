@@ -2,6 +2,8 @@
 title: "Nele spielt „Carrie“ in Marburg!"
 author: "žuk"
 date: "2024-08-04"
+image: "carrie.jpg"
+description: "Nele spielt bei der Waggonhallen-Musicalproduktion die Hauptrolle Carrie. Also schaut da gerne vorbei..."
 categories: [news]
 ---
 
@@ -10,6 +12,8 @@ Moin zusammen,
 vielleicht habt ihr es schon mitbekommen: Nele spielt die Hauptrolle bei der diesjährigen 42. Musicalproduktion der Waggonhalle Marburg. Das wird sehr sehr toll und lohnt sich in jedem Falle!
 
 Ich gehe am 13.08. hin, vielleicht auch nochmal am 14. Vielleicht hat ja noch jemand Lust, sich anzuschließen?
+
+[![](https://www.musicalwaggonhalle.de/wp-content/uploads/2023/11/Carrie-Poster-Final.jpg)](https://www.musicalwaggonhalle.de/produktion/carrie-das-musical/)
 
 Infos zum Musical von der Website:
 
