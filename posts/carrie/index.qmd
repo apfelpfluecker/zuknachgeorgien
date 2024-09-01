@@ -4,7 +4,7 @@ author: "žuk"
 date: "2024-08-04"
 image: "carrie.jpg"
 description: "Nele spielt bei der Waggonhallen-Musicalproduktion die Hauptrolle Carrie. Also schaut da gerne vorbei..."
-categories: [news]
+categories: [News]
 ---
 
 Moin zusammen,

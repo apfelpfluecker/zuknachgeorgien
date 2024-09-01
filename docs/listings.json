@@ -1,6 +1,14 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
+    "items": [
+      "/posts/abschiedskonzert/index.html",
+      "/posts/carrie/index.html",
+      "/posts/zuk/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
     "items": [
       "/posts/abschiedskonzert/index.html",
       "/posts/carrie/index.html",

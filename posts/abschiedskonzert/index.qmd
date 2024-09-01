@@ -3,7 +3,7 @@ title: "Abschiedskonzert von Nele und mir am 06.09."
 author: "žuk und Nele"
 date: "2024-08-05"
 description: "Wir verlassen Marburg und wollen vorher nochmal eine schöne Zeit mit euch haben. Deshalb spielen wir ein Konzert in Marburg am 06.09. Kommt gerne rum..."
-categories: [news]
+categories: [News]
 ---
 
 Hallo zusammen,
