@@ -4,16 +4,20 @@ project:
 
 website:
   title: "žuk nach Georgien"
+  description: "Das ist mein Blog über mein Auslandsstudienjahr in Tbilisi, Georgien."
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/apfelpfluecker
       #- icon: twitter
       #  href: https://twitter.com
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCxiXYviRajihSzyp8eSgxmA
+      - archive.qmd
 format:
   html:
-    theme: flatly
+    theme: theme.scss
     css: styles.css
 
 editor: visual

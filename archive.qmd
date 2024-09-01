@@ -1,0 +1,9 @@
+---
+title: "Archiv"
+page-layout: full
+listing: 
+  contents: posts/**/*.qmd #nur Quarto-Docs berücksichtigen
+  type: default
+  fields: [date, title]
+  sort: "date desc"
+---
