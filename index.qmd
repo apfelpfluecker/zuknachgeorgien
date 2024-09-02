@@ -1,6 +1,6 @@
 ---
 title: "žuk nach Georgien"
-image: profile.jpg
+image: https://live.staticflickr.com/65535/53966071074_40da14c498_h.jpg
 about:
   template: solana
   links:
@@ -12,7 +12,17 @@ about:
     #  href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/apfelpfluecker
 ---
 
-![Bigband-Plakat](https://drive.google.com/uc?export=view&id=13QhedSaef-vco5hV574Vg5YR4gQB6hAV)
+Moin!
+
+Ich bin žuk und das ist mein Blog über mein Auslandsjahr in Georgien. Ein Jahr werde ich in Tbilisi studieren, an der *Tbilisis Iwane Dschawachischwilis Sachelobis Sachelmzipo Uniwersiteti*. Das ist einerseits aus fachlicher, also politikwissenschaftlicher Sicht furchtbar spannend, aber vor allem auch weil ich es endlich nach Georgien schaffe, was Corona vor ein paar Jahren verhindert hat.
+
+Jetzt hat es recht kurzfristig geklappt, dem DAAD und dem Evangelischen Studienwerk Villigst (und natürlich der Uni Marburg und der TSU) sei Dank. Es passt sehr perfekt zwischen meine Bachelorarbeit und mein Masterstudium. In Georgien mache ich nun also die letzten Leistungspunkte meines Bachelors.
+
+Für mich ist das eine sehr große Sache, mir das zuzutrauen, soweit weg von so vielen lieben Menschen, die ich sehr sehr doll vermissen werde. Ich bin ein bisschen selbst überrascht, dass ich das jetzt wirklich durchziehe. Ich weiß jetzt schon, dass ich viele Dinge vermissen werde: Den direkten, „In-echt-Kontakt“ zu Freund\*innen, bündische Veranstaltungen, Marburg, ach, so vieles mehr. Da ist sehr viel Wehmut in mir drin. Ich freue mich riesig auf das Jahr, die neuen Perspektiven, Erfahrungen und Erlebnisse, aber ich bin auch sehr traurig, wenn ich darüber nachdenke, wen ich alles ein Jahr nicht sehen kann, nicht umarmen kann. Das ist schon sehr krass.
+
+**Wie es mir ergeht, erfährst du hier. Schön, dass du da bist! Viel Spaß beim Umschauen und Stöbern.**
+
+PS: Und ja, ich fahre mit dem Zug 😅😂

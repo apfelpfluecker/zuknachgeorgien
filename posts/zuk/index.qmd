@@ -3,7 +3,7 @@ title: "Wie kann ich eigentlich dieses `ž` schreiben?"
 author: "žuk"
 date: "2024-07-30"
 categories: [Hintergrund]
-image: "image.jpg"
+#image: "image.jpg"
 description: "Toller Fahrtenname, wenn ihn niemand richtig schreiben kann. ;) Jedenfalls gibt’s jetzt eine Anleitung, wie man das richtig hinbekommt..."
 toc: true
 ---
