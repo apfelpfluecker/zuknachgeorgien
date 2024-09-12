@@ -2,17 +2,23 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/abschiedskonzert/index.html",
-      "/posts/carrie/index.html",
-      "/posts/zuk/index.html"
+      "/posts/2024-09-12_reisebeginn/index.html",
+      "/posts/2024-09-03_katzen-ii/index.html",
+      "/posts/2024_09-03_katzenaufnahmen/index.html",
+      "/posts/2024-08-05_abschiedskonzert/index.html",
+      "/posts/2024-08-04_carrie/index.html",
+      "/posts/2024-07-30_zuk/index.html"
     ]
   },
   {
     "listing": "/archive.html",
     "items": [
-      "/posts/abschiedskonzert/index.html",
-      "/posts/carrie/index.html",
-      "/posts/zuk/index.html"
+      "/posts/2024-09-12_reisebeginn/index.html",
+      "/posts/2024-09-03_katzen-ii/index.html",
+      "/posts/2024_09-03_katzenaufnahmen/index.html",
+      "/posts/2024-08-05_abschiedskonzert/index.html",
+      "/posts/2024-08-04_carrie/index.html",
+      "/posts/2024-07-30_zuk/index.html"
     ]
   }
 ]

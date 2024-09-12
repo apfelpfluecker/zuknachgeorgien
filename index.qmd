@@ -1,6 +1,6 @@
 ---
 title: "žuk nach Georgien"
-image: https://live.staticflickr.com/65535/53966071074_40da14c498_h.jpg
+image: https://live.staticflickr.com/65535/53988451757_08fb4bbca1_h.jpg
 about:
   template: solana
   links:

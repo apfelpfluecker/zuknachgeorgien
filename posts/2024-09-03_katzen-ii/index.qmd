@@ -2,10 +2,9 @@
 title: "Zweites Katzenliederbuch fertig"
 author: "žuk"
 date: "2024-09-03"
-#image: "carrie.jpg"
+image: "https://live.staticflickr.com/65535/53989360746_b751cefffe_b.jpg"
 description: "Lange haben wir dran gewerkelt, Noten gesetzt, Illustrationen gemalt – jetzt ist es endlich soweit: Unser zweites Liederbuch geht an den Start!"
 categories: [News, Katzenrunde]
-draft: true
 ---
 
 Ab sofort gibt es die zweite Ausgabe Katzenlieder: „Katzen auf Sofas II“. Ihr könnt entweder auf Neles und meinem Abschiedskonzert eines erwerben oder ihr fragt Menschen, die auch noch welche haben, denn ich bin ab sehr bald für ein Jahr in Georgien und werde währenddessen keine Bücher verschicken können...
