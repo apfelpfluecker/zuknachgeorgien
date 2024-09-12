@@ -2,10 +2,9 @@
 title: "Katzenaufnahmen auf YouTube"
 author: "žuk"
 date: "2024-09-03"
-#image: "carrie.jpg"
+image: "https://live.staticflickr.com/65535/53989785760_35fbca19a7_b.jpg"
 description: "Unser eigener YouTube-Kanal geht an den Start!"
 categories: [News, Katzenrunde]
-draft: true
 ---
 
 Seit einiger Zeit haben wir einen eigenen YouTube-Kanal! Dort findet ihr Aufnahmen zu den Liedern in unseren Liederbüchern. Vollständig und veröffentlicht sind schon sämtliche Aufnahmen aus „Katzen auf Sofas I“. Bald werden auch die Aufnahmen für „Katzen auf Sofas II“ hinzukommen.
