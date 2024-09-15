@@ -3,7 +3,7 @@ title: "Es geht jetzt gleich los!"
 author: "žuk"
 date: "2024-09-12"
 categories: [Georgien, News]
-image: "https://live.staticflickr.com/65535/53989668244_a8c72ecd01_h.jpg"
+image: "https://live.staticflickr.com/65535/53989668244_3ea70641f4_b.jpg"
 description: ""
 ---
 
@@ -27,4 +27,4 @@ Auf der Fahrt werde ich ganz viel Lesen, denn eigentlich weiß ich noch gar nich
 
 So, das war’s erstmal von mir für heute. Aktuellstes Bild (mit Reise-Zöpfen!) aus Kassel-Wilhelmshöhe beim Warten auf den ICE:
 
-![Eine der zugigsten und zügigsten Bahnhöfe Deutschlands... War ja klar, dass ich da wieder umsteigen muss.](https://live.staticflickr.com/65535/53989668244_a8c72ecd01_h.jpg)
+![Einer der zugigsten und zügigsten Bahnhöfe Deutschlands... War ja klar, dass ich da wieder umsteigen muss.](https://live.staticflickr.com/65535/53989668244_a8c72ecd01_h.jpg)
