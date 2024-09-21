@@ -1,0 +1,12 @@
+---
+title: "Tipps für Georgien"
+author: "žuk"
+date: "2024-09"
+categories: [Georgien, Hintergrund]
+#image: "image.jpg"
+description: ""
+toc: true
+draft: true
+---
+
+-   Bolt-App für Taxi nutzen, damit man nicht abgezogen wird
