@@ -2,8 +2,8 @@
 title: "Achtung, wir unterbrechen die Sendung für eine kurze politische Mitteilung. Die nachfolgenden Sendungen verschieben sich um einen Blogartikel."
 author: "žuk"
 date: "2024-10-09"
-categories: [Georgien, News]
-image: ""
+categories: [Politik, News]
+#image: ""
 description: ""
 draft: false
 ---
