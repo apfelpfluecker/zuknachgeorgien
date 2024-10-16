@@ -10,3 +10,4 @@ draft: true
 ---
 
 -   Bolt-App für Taxi nutzen, damit man nicht abgezogen wird
+-   wandern: <https://www.caucasus-trekking.com/treks/trek-mestia-to-ushguli>
