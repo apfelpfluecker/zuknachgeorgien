@@ -3,7 +3,7 @@ title: "Mtskheta, Tbilisi und Fußball"
 author: "žuk"
 date: "2024-10-16"
 categories: [Georgien, News]
-image: ""
+image: "https://live.staticflickr.com/65535/54068291963_d6b12f2436_b.jpg"
 description: ""
 ---
 
