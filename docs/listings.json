@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2024-10-16_svaneti/index.html",
       "/posts/2024-10-16_mtskheta/index.html",
       "/posts/2024-10-01_politik/index.html",
       "/posts/2024-10-02_tbilisi/index.html",
@@ -18,6 +19,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/2024-10-16_svaneti/index.html",
       "/posts/2024-10-16_mtskheta/index.html",
       "/posts/2024-10-01_politik/index.html",
       "/posts/2024-10-02_tbilisi/index.html",
