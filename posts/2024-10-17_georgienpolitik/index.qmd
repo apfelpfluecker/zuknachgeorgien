@@ -1,0 +1,35 @@
+---
+title: "Noch mehr Politik"
+author: "žuk"
+date: "2024-10-17"
+categories: [Georgien, News, Politik]
+image: "https://de.wikipedia.org/wiki/Datei:Flag_of_Georgia.svg"
+description: "...aber diesmal georgische."
+draft: true
+---
+
+Am 26.10.2024 wird in Georgien ein neues Parlament gewählt und für viele Georgier\*innen ist es eine richtungsweisende Wahl. Geht der russlandfreundliche Kurs der aktuellen Regierung unter der Schattenführung des Oligarchen Bidzina Ivanishvili (ბიძინა ივანიშვილი) weiter oder wendet sich das Blatt wieder mehr zu Gunsten einer europäischen Annäherung?
+
+Meiner Einschätzung nach (die wahrlich alles andere als valide ist) spricht wenig für eine Wahlniederlage der Regierungspartei „Georgischer Traum“ (ქართული ოცნება), auch wenn mir gegenüber noch keine Person ihre Sympathie gegenüber dieser Partei ausgedrückt hat – aber ich will keinen individualistischen Fehlschluss begehen[^1].
+
+[^1]: Ein individualistischer Fehlschluss wäre, von der Meinung einiger Individuen auf ein Kollektiv zu schließen. In diesem Falle also von meinen wenigen Beobachtungen auf das gesamte georgische Elektorat (Wählerschaft).
+
+In der deutschen Presse kann man kaum etwas über die Situation in Georgien lesen. Zuletzt erschien folgender Artikel in verschiedenen deutschen Zeitungen: [Link](https://www.msn.com/de-de/nachrichten/politik/repression-in-georgien-warten-bis-der-greiftrupp-wieder-kommt/ar-AA1rHrF3). Ich persönlich kann mir eine Eskalation der Situation auf der Straße allerdings weniger vorstellen, einfach weil Protest per se eine eher unwahrscheinlichere Sache ist.[^2]
+
+[^2]: Wer sich dafür mehr interessiert, google mal nach Transitions- oder Transformationsforschung. Das sind spannende Phänomene der Politikwissenschaft (für die ich leider kein Experte bin).
+
+Falls jemand gute englische Berichterstattung über Georgien kennt, ich freue mich sehr über Tipps und Empfehlungen!
+
+Spannend ist, dass ein zentrales Wahlkampfthema der Ukraine-Krieg ist bzw. der Transfer auf die georgische Situation. ქართული ოცნება plakatiert zerstörte ukrainische Stadien, Autobahnen, Schulen und stellt sie gut aussehenden und modernisierten georgischen gegenüber. Links die kriegstreiberischen Oppositionsparteien, rechts die friedenserhaltende Regierung. Krieg und Frieden a la George Orwell?
+
+Woran ist der autoritäre Kurs der Regierung zu erkennen?
+
+-   sog. „Agentengesetz“ wird gegen massive Proteste verabschiedet ([Quelle](https://www.tagesschau.de/ausland/georgien-gesetz-100.html))
+
+-   Gewalt gegen Demonstrierende bei Protesten gegen das Gesetz
+
+-   Umgang mit den Oppositionsparteien ([Quelle](https://www.tagesschau.de/ausland/europa/georgien-saakaschwili-gefaengnis-101.html))
+
+-   Gesetz gegen LGBTQ\*-Community ([Quelle](https://www.tagesschau.de/ausland/europa/georgien-lgbtq-gesetz-100.html))
+
+-   geplantes Amtsenthebungsverfahren gegen die Präsidentin Salome Surabischwili ([Quelle](https://www.sueddeutsche.de/politik/georgien-praesidentin-erneut-vor-amtsenthebungsverfahren-lux.Q1C4UmuBeTPa59r8jdw8tV))
