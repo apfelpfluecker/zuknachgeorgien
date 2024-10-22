@@ -1,0 +1,36 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2024-10-16_svaneti/index.html",
+      "/posts/2024-10-16_mtskheta/index.html",
+      "/posts/2024-10-01_politik/index.html",
+      "/posts/2024-10-02_tbilisi/index.html",
+      "/posts/2024-09-20_georgien/index.html",
+      "/posts/2024-09-15_bukarestundistanbul/index.html",
+      "/posts/2024-09-12_reisebeginn/index.html",
+      "/posts/2024-09-03_katzen-ii/index.html",
+      "/posts/2024_09-03_katzenaufnahmen/index.html",
+      "/posts/2024-08-05_abschiedskonzert/index.html",
+      "/posts/2024-08-04_carrie/index.html",
+      "/posts/2024-07-30_zuk/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/2024-10-16_svaneti/index.html",
+      "/posts/2024-10-16_mtskheta/index.html",
+      "/posts/2024-10-01_politik/index.html",
+      "/posts/2024-10-02_tbilisi/index.html",
+      "/posts/2024-09-20_georgien/index.html",
+      "/posts/2024-09-15_bukarestundistanbul/index.html",
+      "/posts/2024-09-12_reisebeginn/index.html",
+      "/posts/2024-09-03_katzen-ii/index.html",
+      "/posts/2024_09-03_katzenaufnahmen/index.html",
+      "/posts/2024-08-05_abschiedskonzert/index.html",
+      "/posts/2024-08-04_carrie/index.html",
+      "/posts/2024-07-30_zuk/index.html"
+    ]
+  }
+]
