@@ -1,38 +1,57 @@
 ---
-title: "Noch mehr Politik"
+title: "Wahlen"
 author: "žuk"
-date: "2024-10-17"
+date: "2024-10-25"
 categories: [Georgien, News, Politik]
-image: "https://de.wikipedia.org/wiki/Datei:Flag_of_Georgia.svg"
-description: "...aber diesmal georgische."
-draft: true
+#image: "https://de.wikipedia.org/wiki/Datei:Flag_of_Georgia.svg"
+description: ""
 ---
 
-Am 26.10.2024 wird in Georgien ein neues Parlament gewählt und für viele Georgier\*innen ist es eine richtungsweisende Wahl. Geht der russlandfreundliche Kurs der aktuellen Regierung unter der Schattenführung des Oligarchen Bidzina Ivanishvili (ბიძინა ივანიშვილი) weiter oder wendet sich das Blatt wieder mehr zu Gunsten einer europäischen Annäherung?
+Morgen wird in Georgien ein neues Parlament gewählt und es wird sich entscheiden, ob Georgien den Kurs in Richtung eines immer autoritäreren Regimes fortsetzt oder sich (wieder) der proeuropäischen und demokratischen Seite zuwendet.
 
-Meiner Einschätzung nach (die wahrlich alles andere als valide ist) spricht wenig für eine Wahlniederlage der Regierungspartei „Georgischer Traum“ (ქართული ოცნება), auch wenn mir gegenüber noch keine Person ihre Sympathie gegenüber dieser Partei ausgedrückt hat – aber ich will keinen individualistischen Fehlschluss begehen[^1].
+Ich versuche euch mal ein wenig mitzunehmen, was hier gerade so los ist.
 
-[^1]: Ein individualistischer Fehlschluss wäre, von der Meinung einiger Individuen auf ein Kollektiv zu schließen. In diesem Falle also von meinen wenigen Beobachtungen auf das gesamte georgische Elektorat (Wählerschaft).
+Die Politik in Georgien wird seit 2012 nach dem Ende der Saakashvili- (სააკაშვილი-) Ära von der zunächst als Bündnis verschiedener Bewegungen angetretenen, längst aber zu einer Partei geformten Regierungspartei „Georgischer Traum“ (ქართული ოცნება) bestimmt. Im Grunde wiederholt sich in Georgien ein Muster. Bisher gab es drei lange Zeiträume, die von einer Person geprägt waren: Eduard Shevardnadze (ედუარდ შევარდნაძე) von 1995-2003. Dann folgte die sogenannte „Rosenrevolution“ und Mikheil Saakashvili (მიხეილ სააკაშვილი) wurde Präsident (2004-2013). Schon 2012 hatte er bei den Parlamentswahlen deftig verloren an den Georgischen Traum (ქართული ოცნება) und dessen Oppositionsführer Bidsina Ivanishvili (ბიძინს ივანიშვილი). Jedes Mal ging die Regierung nicht freiweillig. Dazu muss man wissen, dass Georgien bis 2013 eine präsidentielles System hatte (wie z.B. in Frankreich), der Präsident also ziemlich viele Befugnisse hatte. 2013 gab es, durch Saakashvili (სააკაშვილი) vorangetrieben, eine Verfassungsreform, die die Rechte des Parlaments stärkten und das System deutlich parlamentarisierten (so wie wir es von Deutschland kennen).[^1] Das scheint auf den ersten Blick demokratieförderlich, war allerdings eher eine Maßnahme des Machterhalts von Saakashvili (სააკაშვილი), da dieser nach zwei Amtsperioden als Präsident nicht erneut antreten durfte. Jedoch erhielt er eine deftige Niederlage bei den Parlamentswahlen 2012 und musste so das politische Feld verlassen. Aktuell sitzt er wegen Amtsmissbrauchs im Gefängnis, was unter anderem vom Europäischen Parlament kritisiert wird, weil man politische Motive hinter der Inhaftierung vermutet. Auch das Ende der Shevardnadze-Ära (შევარდნაძე) verlief nicht reibungslos. Im November 2003 gewann seine Partei die Parlamentswahl, jedoch gab es immense Vorwürfe des Wahlbetrugs von Seiten der Opposition und internationalen Wahlbeobachtern. Daraufhin gab es riesige Proteste, die in der Stürmung des Parlaments und der Staatskanzlei gipfelten. Obwohl Shevardnadze (შევარდნაძე) den Ausnahmezustand ausgerufen hatte, verzichtete er, die Armee gegen Demonstrant\*innen einzusetzen, und nahm seinen Hut. Aus dieser „Rosenrevolution“ (ვარდების რევოლუცია), bzw. den folgenden Wahlen, ging Mikheil Saakashvili (მიხეილ სააკაშვილი) als neuer Präsident hervor.
 
-In der deutschen Presse kann man kaum etwas über die Situation in Georgien lesen. Zuletzt erschien folgender Artikel in verschiedenen deutschen Zeitungen: [Link](https://www.msn.com/de-de/nachrichten/politik/repression-in-georgien-warten-bis-der-greiftrupp-wieder-kommt/ar-AA1rHrF3). Ich persönlich kann mir eine Eskalation der Situation auf der Straße allerdings weniger vorstellen, einfach weil Protest per se eine eher unwahrscheinlichere Sache ist.[^2]
+[^1]: Ich möchte an dieser Stelle anmerken, dass ich kein Experte des georgischen Regierungssystems bin. Es handelt sich um eine alltagstaugliche Einordnung, die nicht den Anspruch hat, politikwissenschaftlich korrekt zu sein (ist sie nämlich vermutlich nicht).
 
-[^2]: Wer sich dafür mehr interessiert, google mal nach Transitions- oder Transformationsforschung. Das sind spannende Phänomene der Politikwissenschaft (für die ich leider kein Experte bin).
+![Auf dem Weg zum Liberty Square. Es waren so viele Menschen da, ich war noch nie auf einer so riesigen Demonstration. Die Stimmung war sehr schön und meine Gruppe auch :). Leider habe ich meine Kamera nicht mitgenommen, deswegen sind die Fotos nicht ganz so toll.](https://live.staticflickr.com/65535/54092409398_1316fa4569_b.jpg)
 
-Falls jemand gute englische Berichterstattung über Georgien kennt, ich freue mich sehr über Tipps und Empfehlungen!
+![Auch vier Stunden nach Beginn der Demonstration war es unglaublich voll. Das Bild ist auf dem Rückweg entstanden, als ich mich zur Metro-Station durchgedrängelt habe.](https://live.staticflickr.com/65535/54091288092_cea287815c_b.jpg)
 
-Spannend ist, dass ein zentrales Wahlkampfthema der Ukraine-Krieg ist bzw. der Transfer auf die georgische Situation. ქართული ოცნება plakatiert zerstörte ukrainische Stadien, Autobahnen, Schulen und stellt sie gut aussehenden und modernisierten georgischen gegenüber. Links die kriegstreiberischen Oppositionsparteien, rechts die friedenserhaltende Regierung. Krieg und Frieden a la George Orwell?
+Die aktuelle Lage hat eine meiner Professor\*innen mit der Lage vor der Rosenrevolution (ვარდების რევოლუცია) verglichen. Am vergangenen Sonntag gab es eine riesige proeuropäische Demonstration auf dem Liberty Square, einem der größten Plätze Georgiens. Meiner Einschätzung nach dürften mindestens 100.000 Menschen dieser Demonstration beigewohnt haben, in der Tagesschau wurde von [Zehntausenden Demonstrant\*innen](https://www.tagesschau.de/ausland/europa/georgien-pro-europaeische-demonstrationen-100.html) berichtet. Es gab – im Gegensatz zu den Protesten gegen das Agentengesetz im Frühjahr – keine mir sichtbare Gewalt gegen Demonstrierende, überhaupt gab es nur sehr wenig Polizeipräsenz. Am Dienstag dann fand die zentrale Kundgebung des Georgischen Traums (ქართული ოცნება) statt, zu der Menschen aus ganz Georgien angekarrt wurden (siehe Bilder). Ich habe Berichte gehört, dass Menschen teilweise gezwungen wurden, mitzufahren. Da ging es zum Beispiel um vom Staat abhängig Beschäftigte wie Lehrer\*innen (so habe ich es verstanden). Unabhängig prüfen konnte ich diese Berichte nicht. Mehr zur Demonstration kann man [hier](https://civil.ge/archives/629777) lesen.
 
-Woran ist der autoritäre Kurs der Regierung zu erkennen?
+![Zahlreiche regierungsfreundliche Demonstrierende wurden aus ganz Georgien nach Tbilisi (თბილისი) gebracht. Bild: Civil.ge.](https://civil.ge/wp-content/uploads/2024/10/buses-1024x576.jpeg)
 
--   sog. „Agentengesetz“ wird gegen massive Proteste verabschiedet ([Quelle](https://www.tagesschau.de/ausland/georgien-gesetz-100.html))
+![„Free arrival“ übertitelte die proeuropäische Präsidentin Georgiens Salome Zurabishvili (სალომე ზურაბიშვილი) dieses Bild vom Republic Square. Bild: Civil.ge.](https://civil.ge/wp-content/uploads/2024/10/image-46.png)
 
--   Gewalt gegen Demonstrierende bei Protesten gegen das Gesetz
+Doch warum ist die Lage so ähnlich zur Rosenrevolution (ვარდების რევოლუცია)? Es gibt große Proteste gegen die Regierungspartei und die Opposition (und auch das Europäische Parlament) befürchten [Wahlmanipulationen von Seiten der Regierung](https://www.wevote.ge/en). Außerdem hat sich die Regierungspartei immer mehr in eine autoritäre, machterhaltene Richtung entwickelt. So trat kürzlich das [umstrittene Gesetz gegen die LGBTQ\*-Community](https://www.tagesschau.de/ausland/europa/georgien-lgbtq-gesetz-100.html) in Kraft, das noch viel mehr umstrittene [„Agentengesetz“](https://www.zdf.de/nachrichten/politik/ausland/georgien-proteste-agentengesetz-verabschiedet-russland-100.html) ist es bereits. Beide Gesetze weisen deutliche Parallelen zur autoritären Gesetzgebung in Russland auf. Zudem kündigt der zentrale Mann hinter dem Georgischen Traum (საქართული ოცნება), der Oligarch Bidsina Ivanishvili (ბიძინა ივანიშვილი)[^2], offen an, nach der Wahl [die Oppositionsparteien verbieten](https://www.tagesschau.de/ausland/europa/georgien-wahlkampf-parlamentswahl-100.html) zu wollen (mit Verweis auf die Nürnberger Prozesse). Schon jetzt findet [systematische Gewalt gegen oppositionelle Gruppen](https://www.msn.com/de-de/nachrichten/politik/repression-in-georgien-warten-bis-der-greiftrupp-wieder-kommt/ar-AA1rHrF3) statt. Zudem ist ein [Amtsenthebungsverfahren gegen die proeuropäische Präsidentin Salome Zurabishvili (სალომე ზურაბიშვილი)](https://www.sueddeutsche.de/politik/georgien-praesidentin-erneut-vor-amtsenthebungsverfahren-lux.Q1C4UmuBeTPa59r8jdw8tV) geplant.
 
--   Umgang mit den Oppositionsparteien ([Quelle](https://www.tagesschau.de/ausland/europa/georgien-saakaschwili-gefaengnis-101.html))
+[^2]: Nur fürs Gefühl: Der hat so viel Geld wie der gesamte georgische Staatshaushalt.
 
--   Gesetz gegen LGBTQ\*-Community ([Quelle](https://www.tagesschau.de/ausland/europa/georgien-lgbtq-gesetz-100.html))
+Kurios scheint, dass 80 % der Georgier\*innen nach wie vor in die EU wollen. Wie passt das mit einer Wahl für den Georgischen Traum (ქართული ოცნება) zusammen?
 
--   geplantes Amtsenthebungsverfahren gegen die Präsidentin Salome Surabischwili ([Quelle](https://www.sueddeutsche.de/politik/georgien-praesidentin-erneut-vor-amtsenthebungsverfahren-lux.Q1C4UmuBeTPa59r8jdw8tV))
+Die Bedrohung durch Russland ist für Georgien sehr real. Kurz hinter der Grenze zu Südossetien, einem der zwei von Russland besetzten Gebiete, stehen schon russische Panzer (wurde mir so erzählt). Die Angst, dass Georgien eine Ukraine 2.0 wird, ist vorhanden und groß. Und Widerstand wäre weitestgehend zwecklos, denn Georgien hat lediglich 3,7 Millionen Einwohner\*innen – die Ukraine ist zehnmal so groß. Das Land ist viel kleiner, eine Blitzkriegtaktik wäre also viel schneller erfolgreich – und am Anfang des Ukraine-Kriegs konnte eine Niederlage der Ukraine ja auch nur sehr knapp abgewendet werden. Aus diesem Grund scheint der Georgische Traum (ქართული ოცნება) wohl für viele Wähler\*innen als die Alternative, die sich europäisch orientiert (aber eben nicht zur EU), aber ohne Russland zu vergraulen. Außerdem gibt es Gerüchte, dass Ivanishvili (ივანიშვილი) mit Russland in Verhandlungen über die Wiedereingliederung der abtrünnigen Gebiete steht. Was da dran ist, kann ich nicht beurteilen.
+
+Kein Wunder also, dass ein zentrales Wahlkampfthema der Ukraine-Krieg ist bzw. der Transfer auf die georgische Situation. Der Georgische Traum (ქართული ოცნება) plakatiert zerstörte ukrainische Stadien, Autobahnen, Schulen und stellt sie gut aussehenden und modernisierten georgischen gegenüber. Links die kriegstreiberischen Oppositionsparteien, rechts die friedenserhaltende Regierung. Krieg und Frieden a la George Orwell.
+
+Ich hab mal ein paar Artikel verlinkt, die sich nun in deutschsprachigen Medien aufgrund der Wahl etwas häufen. Sonstige deutsche Berichterstattung findet quasi nicht statt.
+
+-   [Repression in Georgien: Warten, bis der Greiftrupp wieder kommt](https://www.msn.com/de-de/nachrichten/politik/repression-in-georgien-warten-bis-der-greiftrupp-wieder-kommt/ar-AA1rHrF3). Ausführlichere Reportage über Repressionen gegenüber der Opposition.
+
+-   Audio: [Schicksalswahl in Georgien – Europa oder Putin?](https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-1894.html)
+
+-   Z+: [Der Oligarch der Affenbrotbäume](https://www.zeit.de/kultur/film/2024-10/wahlen-georgien-praesident-bidzina-ivanishvili-wlamdimir-putin)
+
+-   Interview: [Georgien: Angst vor der „autoritären Wende“](https://www.mdr.de/nachrichten/welt/osteuropa/politik/georgien-parlamentswahl-interview-zaal-andronikashvili-100.html). Der bisher beste Beitrag hinsichtlich des Erklärungsgehalts der Wahl-Situation.
+
+-   [Georgien wählt am Abgrund: „Wofür Putin Jahre gebraucht hat, machen sie in zwei Monaten“](https://www.msn.com/de-de/nachrichten/politik/georgien-w%C3%A4hlt-am-abgrund-wof%C3%BCr-putin-jahre-gebraucht-hat-machen-sie-in-zwei-monaten/ar-AA1sTL7L). Ebenfalls sehr gut!
+
+-   [Georgien wählt: Ruhe vor dem Sturm?](https://www.kas.de/de/laenderberichte/detail/-/content/georgien-waehlt) Sehr toller Hintergrundartikel der Konrad-Adenauer-Stiftung.
+
+-   [Bidsina Iwanischwili: Reichster und mächtigster Mann Georgiens](https://www.euractiv.de/section/eu-aussenpolitik/news/bidsina-iwanischwili-reichster-und-maechtigster-mann-georgiens/). Wie der Name schon andeutet ein Porträt über Ivanishvili.
+
+-   [Vor Parlamentswahlen in Georgien. Ost gegen West](https://taz.de/Vor-Parlamentswahlen-in-Georgien/!6038959/). Ebenfalls sehr ausführlicher Artikel in der taz.
 
 ## Aktuelle Empfehlungen
 
