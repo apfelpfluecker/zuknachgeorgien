@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2024-10-30_georgienwahlen/index.html",
       "/posts/2024-10-17_georgienpolitik/index.html",
       "/posts/2024-10-16_svaneti/index.html",
       "/posts/2024-10-16_mtskheta/index.html",
@@ -20,6 +21,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/2024-10-30_georgienwahlen/index.html",
       "/posts/2024-10-17_georgienpolitik/index.html",
       "/posts/2024-10-16_svaneti/index.html",
       "/posts/2024-10-16_mtskheta/index.html",
