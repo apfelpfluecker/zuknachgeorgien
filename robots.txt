@@ -1,1 +1,1 @@
-Sitemap: https://apfelpfluecker.github.io/zuknachgeorgien/sitemap.xml
+Sitemap: https://blog.zukarton.eu/sitemap.xml
