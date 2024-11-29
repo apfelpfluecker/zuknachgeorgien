@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2024-11-28_zerstreuung/index.html",
       "/posts/2024-11-08_tbilisi/index.html",
       "/posts/2024-10-30_georgienwahlen/index.html",
       "/posts/2024-10-17_georgienpolitik/index.html",
@@ -22,6 +23,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/2024-11-28_zerstreuung/index.html",
       "/posts/2024-11-08_tbilisi/index.html",
       "/posts/2024-10-30_georgienwahlen/index.html",
       "/posts/2024-10-17_georgienpolitik/index.html",
