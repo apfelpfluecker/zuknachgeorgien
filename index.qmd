@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/apfelpfluecker
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@Katzenrunde
 ---
 
 Moin!
