@@ -1,27 +1,39 @@
 project:
   type: website
-  output-dir: docs
-  resources: 
+  #output-dir: docs
+  resources:
     - "CNAME"
 
 website:
   title: "žuk nach Georgien"
   description: "Das ist mein Blog über mein Auslandsstudienjahr in Tbilisi, Georgien."
   navbar:
+    left: 
+      - text: Blog
+        href: blog.qmd
+      - text: Archiv
+        href: archive.qmd
     right:
-      - blog.qmd
       - icon: github
         href: https://github.com/apfelpfluecker
       #- icon: twitter
       #  href: https://twitter.com
       - icon: youtube
-        href: https://www.youtube.com/channel/UCxiXYviRajihSzyp8eSgxmA
-      - archive.qmd
+        href: https://www.youtube.com/@Katzenrunde
+
 format:
   html:
     theme: theme.scss
     css: styles.css
+    link-external-newwindow: true
+
+#resources: 
+#  - CNAME # https://github.com/quarto-dev/quarto-cli/discussions/3249
 
 editor: visual
 
 lang: de
+
+pagetitle: "{{< meta title >}} | žuk nach Georgien"
+author-meta: "žuk"
+
