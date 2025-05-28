@@ -8,6 +8,7 @@ website:
   title: "žuk nach Georgien"
   description: "Das ist mein Blog über mein Auslandsstudienjahr in Tbilisi, Georgien."
   navbar:
+    collapse: false
     left: 
       - text: Blog
         href: blog.qmd
