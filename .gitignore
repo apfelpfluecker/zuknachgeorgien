@@ -2,6 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+*.log
+*.tex
+*.js
+*.json
+*.html
 
 /.quarto/
 /_site/
