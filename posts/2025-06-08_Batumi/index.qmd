@@ -3,7 +3,7 @@ title: "Batumi"
 author: "žuk"
 date: "2025-06-08"
 categories: [Georgien, News]
-image: ""
+image: "https://zukloud.zukarton.eu/apps/files_sharing/publicpreview/mptGbdQ6ZcJ5Aya?file=/&fileId=76705&x=1920&y=1080&a=true&etag=c2a230f06746e0e42a7e466bf6de584f"
 description: ""
 ---
 
@@ -51,4 +51,4 @@ Habt es gut und bis bald!
 
 ## Aktuelle Empfehlungen
 
-Heut gibt’s mal nichts. Nächstes Mal wieder ;)
+-   Artikel vom Guardian über [Tsqaltubo](https://www.theguardian.com/artanddesign/2025/jun/08/tskaltubo-stalin-spa-resort-decay-soviet-past-georgia?CMP=Share_AndroidApp_Other).
