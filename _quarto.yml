@@ -21,6 +21,7 @@ website:
       #  href: https://twitter.com
       - icon: youtube
         href: https://www.youtube.com/@Katzenrunde
+  body-footer: "Made with [Quarto](https://quarto.org)."
 
 format:
   html:
