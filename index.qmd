@@ -10,9 +10,9 @@ about:
     #- icon: linkedin
     #  text: LinkedIn
     #  href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com/apfelpfluecker
+    - icon: music-note-list
+      text: Liederpool-Projekt
+      href: https://liederpool-projekt.github.io/how-to-liederbuch/
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com/@Katzenrunde
