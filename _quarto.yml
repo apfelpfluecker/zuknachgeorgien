@@ -15,8 +15,8 @@ website:
       - text: Archiv
         href: archive.qmd
     right:
-      - icon: github
-        href: https://github.com/apfelpfluecker
+      - icon: music-note-list
+        href: https://liederpool-projekt.github.io/how-to-liederbuch/
       #- icon: twitter
       #  href: https://twitter.com
       - icon: youtube
