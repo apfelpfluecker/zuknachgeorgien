@@ -2,7 +2,7 @@
 title: "Nele spielt „Carrie“ in Marburg!"
 author: "žuk"
 date: "2024-08-04"
-image: "carrie.jpg"
+image: "images/carrie.jpg"
 description: "Nele spielt bei der Waggonhallen-Musicalproduktion die Hauptrolle Carrie. Also schaut da gerne vorbei..."
 categories: [News]
 ---
