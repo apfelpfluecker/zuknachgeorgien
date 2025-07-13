@@ -2,10 +2,9 @@
 title: "Rethinking Toxic Masculinity"
 subtitle: "Towards a Positive Narrative of Feminist Manhood"
 author: "žuk"
-date: "2025-07-08"
-categories: [Academic]
-image: ""
-draft: true
+date: "2025-07-14"
+categories: [Academic, Politik]
+image: "https://zukloud.zukarton.eu/apps/files_sharing/publicpreview/nRbsbJCPKdxZnEr?file=/&fileId=135548&x=1920&y=1080&a=true&etag=23277c8e8b303dc3d0860bafe054483b"
 description: ""
 
 knitr: 
