@@ -1,12 +1,12 @@
 project:
   type: website
-  #output-dir: docs
   resources:
     - "CNAME"
 
 website:
   title: "žuk nach Georgien"
   description: "Das ist mein Blog über mein Auslandsstudienjahr in Tbilisi, Georgien."
+  site-url: "https://blog.zukarton.eu"
   navbar:
     collapse: false
     left: 
@@ -21,6 +21,8 @@ website:
       #  href: https://twitter.com
       - icon: youtube
         href: https://www.youtube.com/@Katzenrunde
+      - icon: rss
+        href: blog.xml
   body-footer: "Made with [Quarto](https://quarto.org)."
 
 format:
