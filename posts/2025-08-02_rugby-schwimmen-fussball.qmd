@@ -1,7 +1,7 @@
 ---
 title: "Rugby, Schwimmen, Fußball"
 author: "žuk"
-date: "2025-08-02"
+date: "2025-08-03"
 categories: [Georgien, News]
 image: "https://zukloud.zukarton.eu/apps/files_sharing/publicpreview/BaCGYK3EJ5T9W5F?file=/&fileId=134264&x=1920&y=1080&a=true&etag=8ba2431c7a9cc9768dc0e02e04b7bca7"
 description: ""
