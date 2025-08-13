@@ -12,6 +12,8 @@ website:
     left: 
       - text: Blog
         href: blog.qmd
+      - text: Lieder
+        href: lieder.qmd
       - text: Archiv
         href: archive.qmd
     right:
@@ -23,7 +25,16 @@ website:
         href: https://www.youtube.com/@Katzenrunde
       - icon: rss
         href: blog.xml
-  body-footer: "Made with [Quarto](https://quarto.org)."
+  page-footer: 
+    left: "Made with [Quarto](https://quarto.org)."
+    center: "© žuk, 2025"
+    right:
+      - icon: music-note-list
+        href: https://liederpool-projekt.github.io/how-to-liederbuch/
+      - icon: youtube
+        href: https://www.youtube.com/@Katzenrunde
+      - icon: rss
+        href: blog.xml
 
 format:
   html:
