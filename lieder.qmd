@@ -1,13 +1,14 @@
 ---
 title: "Lieder"
+author: "žuk"
 format: html
 editor: visual
 ---
 
-Seit einigen Jahren schreibe ich, befeuert durch unsere Katzenrunde, Lieder. Auf dieser Seite sind alle meine Lieder gelistet. Wenn ihr ein Lied in einem Liederbuch abdrucken wollt, freue ich mich sehr und unterstütze gerne bei Notensatz und allem, was man so brauchen könnte. Bitte schreibt mir in jedem Falle eine E-Mail an zuk\[ät\]singekreise.de. Ich antworte eigentlich immer recht schnell. Die Sortierung erfolgt nach Jahr der endgültigen Fertigstellung. Die Links führen jeweils zu Aufnahmen des Liedes.
+Seit einigen Jahren schreibe ich, befeuert durch unsere Katzenrunde, Lieder. Auf dieser Seite sind alle meine Lieder gelistet. Wenn ihr ein Lied in einem Liederbuch abdrucken wollt, freue ich mich sehr und unterstütze gerne bei Notensatz und allem, was man noch so brauchen könnte. Bitte schreibt mir in jedem Falle eine E-Mail an zuk\[ät\]singekreise.de. Ich antworte eigentlich immer recht schnell. Die Sortierung erfolgt nach Jahr der endgültigen Fertigstellung. Die Links führen jeweils zu Aufnahmen des Liedes.
 
 | Liedtitel | Liedanfang | Autor\*in(nen) Text | Autor\*in(nen) Melodie | Weitere Anmerkungen | Liederbücher |
-|--------------|--------------|--------------|--------------|--------------|--------------|
+|------------|------------|------------|------------|------------|------------|
 | [Im Burgenland](https://www.youtube.com/watch?v=x9cQVUS5HCA) | Die dunklen Tümpel | Theodor Kramer | žuk (während dem ersten Lockdown 2020) | 2\. Stimme von Jockel (April 2023) | Katzen auf Sofas I |
 | [Dem Tage nach](https://www.youtube.com/watch?v=hVcZqk4QdcQ) | Wenn uns die Straße weit entflieht | žuk (März 2023) | Mattheus und erbse (März 2023) | auf Fahrt in Slowenien | Katzen auf Sofas I, Beräuner-Liederheft 2023 |
 | [Wir werden es zu Haus geräumig haben](https://www.youtube.com/watch?v=A7hSzdhNktY) |  | Theodor Kramer | žuk (April 2023) | 2\. Stimme zusammen mit Mattheus (Oktober 2023) | Katzen auf Sofas I |
@@ -16,7 +17,7 @@ Seit einigen Jahren schreibe ich, befeuert durch unsere Katzenrunde, Lieder. Auf
 | Schlaflied | Schon ist die Nacht hinabgestiegen | žuk (Mai 2023) | žuk (vermutlich August 2023) |  | Katzen auf Sofas II |
 | [Walzer, im Freien zu tanzen](https://www.youtube.com/watch?v=E-ojX0sCMCA) | Weg, fort von Zuhause | žuk und Mattheus (Juli und August 2023) | žuk und Mattheus (Juli und August 2023) | auf Floßfahrt asynchron mit Mattheus geschrieben | Katzen auf Sofas II, BGB |
 | Vorm Werk im Gras | Vorm Werk die … | Theodor Kramer | žuk (November 2023) |  | Katzen auf Sofas II |
-| [Winterboofe](https://www.youtube.com/watch?v=oEGS1Xy6ryg) | Der dunklen Welt folgt weißer Tag | žuk (September 2023) | žuk und Mattheus (September 2023 & März 2024) | Textfetzen über unsere Boofenfahrt am letzten Januarwochenende 2023 schon im Februar 2023 | Katzen auf Sofas  II, Beräuner 2024 |
+| [Winterboofe](https://www.youtube.com/watch?v=oEGS1Xy6ryg) | Der dunklen Welt folgt weißer Tag | žuk (September 2023) | žuk und Mattheus (September 2023 & März 2024) | Textfetzen über unsere Boofenfahrt am letzten Januarwochenende 2023 schon im Februar 2023 | Katzen auf Sofas II, Beräuner 2024 |
 | Mainacht | Das Licht weicht aus den Zweigen | Theodor Kramer | žuk (Juni 2024) |  | Katzen auf Sofas II |
 | Ich wünsch mir jemand |  | žuk (Februar 2023) | žuk (November 2024) |  |  |
 | Wo Tag und Nacht sich scheiden |  | žuk (August 2023 & Juli 2024) | žuk (Ende 2024 / Anfang 2025) |  |  |
