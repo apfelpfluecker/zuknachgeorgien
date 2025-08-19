@@ -1,6 +1,5 @@
 ---
 title: "Lieder"
-author: "žuk"
 format: html
 editor: visual
 ---
