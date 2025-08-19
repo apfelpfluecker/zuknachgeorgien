@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/archive.html",
     "items": [
+      "/posts/2025-08-19_akhaltsikhe-vardzia.html",
       "/posts/2025-08-04_Lagodekhi.html",
       "/posts/2025-08-02_rugby-schwimmen-fussball.html",
       "/posts/2025-08-01_tsipnari.html",
@@ -46,8 +47,9 @@
     ]
   },
   {
-    "listing": "/archive.html",
+    "listing": "/blog.html",
     "items": [
+      "/posts/2025-08-19_akhaltsikhe-vardzia.html",
       "/posts/2025-08-04_Lagodekhi.html",
       "/posts/2025-08-02_rugby-schwimmen-fussball.html",
       "/posts/2025-08-01_tsipnari.html",
