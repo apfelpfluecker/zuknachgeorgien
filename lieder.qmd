@@ -7,7 +7,7 @@ editor: visual
 Seit einigen Jahren schreibe ich, befeuert durch unsere Katzenrunde, Lieder. Auf dieser Seite sind alle meine Lieder gelistet. Wenn ihr ein Lied in einem Liederbuch abdrucken wollt, freue ich mich sehr und unterstütze gerne bei Notensatz und allem, was man noch so brauchen könnte. Bitte schreibt mir in jedem Falle eine E-Mail an zuk\[ät\]singekreise.de. Ich antworte eigentlich immer recht schnell. Die Sortierung erfolgt nach Jahr der endgültigen Fertigstellung. Die Links führen jeweils zu Aufnahmen des Liedes.
 
 | Liedtitel | Liedanfang | Autor\*in(nen) Text | Autor\*in(nen) Melodie | Weitere Anmerkungen | Liederbücher |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | [Im Burgenland](https://www.youtube.com/watch?v=x9cQVUS5HCA) | Die dunklen Tümpel | Theodor Kramer | žuk (während dem ersten Lockdown 2020) | 2\. Stimme von Jockel (April 2023) | Katzen auf Sofas I |
 | [Dem Tage nach](https://www.youtube.com/watch?v=hVcZqk4QdcQ) | Wenn uns die Straße weit entflieht | žuk (März 2023) | Mattheus und erbse (März 2023) | auf Fahrt in Slowenien | Katzen auf Sofas I, Beräuner-Liederheft 2023 |
 | [Wir werden es zu Haus geräumig haben](https://www.youtube.com/watch?v=A7hSzdhNktY) |  | Theodor Kramer | žuk (April 2023) | 2\. Stimme zusammen mit Mattheus (Oktober 2023) | Katzen auf Sofas I |
@@ -21,3 +21,4 @@ Seit einigen Jahren schreibe ich, befeuert durch unsere Katzenrunde, Lieder. Auf
 | Ich wünsch mir jemand |  | žuk (Februar 2023) | žuk (November 2024) |  |  |
 | Wo Tag und Nacht sich scheiden |  | žuk (August 2023 & Juli 2024) | žuk (Ende 2024 / Anfang 2025) |  |  |
 | An einem schönen Herbsttag möcht ich sterben |  | Theodor Kramer | žuk (Februar 2025) |  |  |
+| Wald- und Wiesentummelei | Aufs Fahrrad steig ich: eins, zwei, drei | žuk und Dörthe (Juli/August 2025) | tux (August 2025) | Für Arlett und Arne zur Hochzeit |  |

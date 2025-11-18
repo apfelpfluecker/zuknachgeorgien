@@ -1,11 +1,10 @@
 ---
 title: "Auf Fahrt"
 author: "žuk"
-date: "2025-08-20"
+date: "2025-08-27"
 categories: [Georgien, News]
-image: ""
+image: "https://zukloud.zukarton.eu/apps/files_sharing/publicpreview/8MP33ssFFQmo2pF?file=/&fileId=154728&x=1920&y=1080&a=true&etag=c7e282a8dfb63a2e471810d383b54727"
 description: ""
-draft: true
 ---
 
 Dann folgte ein weiteres Mal der ბორჯომი (Borjomi) Nationalpark. Der ist nämlich einfach viel zu schön, um den nur einmal zu durchwandern. Also macht euch gefasst auf eine neue Variation epischer Fahrtenbilder.
