@@ -1,5 +1,5 @@
 ---
-title: "Der Dezer"
+title: "Der Dezerter Bazar"
 author: "žuk"
 date: "2025-11-18"
 categories: [Georgien, News]
