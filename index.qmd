@@ -1,5 +1,5 @@
 ---
-title: "žuk nach Georgien"
+title: "Nachrichten aus dem žukarton"
 image: "https://live.staticflickr.com/65535/53988451757_48bc5fd49e_b.jpg"
 about:
   template: solana

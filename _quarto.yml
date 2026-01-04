@@ -4,7 +4,7 @@ project:
     - "CNAME"
 
 website:
-  title: "žuk nach Georgien"
+  title: "Nachrichten aus dem žukarton"
   description: "Das ist mein Blog über mein Auslandsstudienjahr in Tbilisi, Georgien."
   site-url: "https://blog.zukarton.eu"
   navbar:
@@ -49,6 +49,6 @@ editor: visual
 
 lang: de
 
-pagetitle: "{{< meta title >}} | žuk nach Georgien"
+pagetitle: "{{< meta title >}} | Nachrichten aus dem žukarton"
 author-meta: "žuk"
 
