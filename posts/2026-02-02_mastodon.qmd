@@ -1,0 +1,14 @@
+---
+title: "Mastodon"
+author: "žuk"
+date: "2026-02-02"
+categories: [News]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mastodon_wordmark_light_2022.svg/960px-Mastodon_wordmark_light_2022.svg.png"
+description: ""
+---
+
+Ich bin jetzt auf Mastodon unterwegs: [https://troet.cafe/\@zuk](https://troet.cafe/@zuk). Für alle, die es nicht kennen: Mastodon ist das coole Twitter/X und es gibt ganz viele tolle Menschen dort. Es ist echt krass, ich hab mich angemeldet und es freuen sich random Leute, dass ich da bin und begrüßen mich. Das ist so nett. Also falls ihr im Zuge des [DI.DAY](https://di.day/)s nicht eh schon auf die gute Seite des Internets gewechselt seid, wäre dies eine gute Gelegenheit, das nachzuholen.
+
+Habt es gut und wir sehen uns am Freitag beim Konzert.
+
+Titelbild von Eugen Rochko, Lizenz: AGPL, [hier](https://commons.wikimedia.org/w/index.php?curid=127102460) zu finden.
