@@ -28,7 +28,7 @@ website:
         href: blog.xml
   page-footer: 
     left: "Made with [Quarto](https://quarto.org)."
-    center: "© žuk, 2025"
+    center: "© žuk, 2024–2026"
     right:
       - icon: mastodon
         href: https://troet.cafe/@zuk
